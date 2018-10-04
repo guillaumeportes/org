@@ -76,3 +76,10 @@ http://sachachua.com/blog/category/emacs/
 https://notabug.org/
 * Typing
 https://www.typingclub.com/sportal/
+* URLs
+[[https//docs.swift.org/swift-book/LanguageGuide/TheBasics.html]]
+[[mywiki.wooledge.org]]
+[[javascript.info]]
+[[https://services.github.com/on-demand/]]
+[[learn.shayhowe.com]]
+[[http://exercism.io]]
