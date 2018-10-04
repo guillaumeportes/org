@@ -1,0 +1,8 @@
+* Stuff to read and check out
+** Awesome Emacs
+** Prelude
+** Projectile
+** Neotree
+** masteringemacs.org
+** Magit
+** Treemacs

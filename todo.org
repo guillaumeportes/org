@@ -1,0 +1,78 @@
+* Tasks
+* Stuff to learn
+** Clojure (Koans)
+** ClojureScript
+** Kubernetes / AWS
+** Automated Testing
+** SNS/SQS
+** CI
+** Protobuf
+** Parquet
+** Server versioning to avoid forcing client updates
+** Machine learning
+** Pull requests
+** Game data in actual database
+** Blockchain
+** Web front end (Chromium)
+** Open source dashboards (python / matplotlib /pandas / pyplot / dash)
+** BASH
+http://mywiki.wooledge.org/BashGuide
+https://exercism.io/my/tracks/bash
+* Game systems
+** Rewards
+** UI
+Way to handle sorting (everything in its own Canvas?)
+Way to handle when dialogs should be allowed to pop up (fullscreen ui)
+Atlasses, bundles, build size
+Preloading, streaming
+** State Machine
+** State (UI Activation, disabling buttons, etc.)
+** Tweening with a static class instead of coroutines
+** Game Data
+Need to completely decouple server data from client components: this will get rid of the patching issues related to removing / adding data that results in removing / adding Unity components.
+** Asset streaming: on demand references, downloads, batching of loading on demand (to avoid yielding multiple times per frame)
+** Rewards and their UI
+** Coroutines that don't rely on Unity?
+** Onboarding
+** Quests
+** Store
+** Drive more from server: onboarding, quests, some UI stuff (in order to allow for "experiments")?
+** Download server content upfront so there's no blocking during gameplay (see Clash Royale)
+** Metadata on components / game objects
+** Scriptable objects
+** Import tools
+** State controller
+** Player requirements / gating progressio / feature locks
+** Analytics
+** Crash reporting
+** Localisation
+* Email + Emacs
+https://wwwtech.de/articles/2016/jul/my-personal-mail-setup
+https://notanumber.io/2016-10-03/better-email-with-mu4e/
+** Notmuch
+[[https://notmuchmail.org/getting-started/]]
+https://notmuchmail.org/emacstips/
+https://notmuchmail.org/notmuch-emacs/
+https://notmuchmail.org/howto/
+** OfflineIMAP
+https://github.com/OfflineIMAP/offlineimap/blob/master/offlineimap.conf
+** MSMTP
+https://marlam.de/msmtp/msmtp.html
+https://marlam.de/msmtp/msmtprc.txt
+* ORG
+http://emacslife.com/baby-steps-org.html
+http://sachachua.com/blog/emacs/
+https://org-trello.github.io/
+http://doc.norang.ca/org-mode.html
+https://orgmode.org/orgguide.pdf
+http://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html
+http://joshrollinswrites.com/2018/08/23/switching-to-multiple-file-setup/
+* Emacs
+https://www.masteringemacs.org/all-articles
+https://jblevins.org/log/advanced-emacs
+https://www.gnu.org/software/emacs/manual/html_node/emacs/Mark.html
+http://sachachua.com/blog/category/emacs/
+* Stuff to check out
+https://notabug.org/
+* Typing
+https://www.typingclub.com/sportal/

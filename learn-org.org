@@ -1,0 +1,55 @@
+* Tasks
+** most important thing that you have to do
+   SCHEDULED: <2018-08-26 Sun>
+** TODO second most important thing that you have to do
+   SCHEDULED: <2018-08-25 Sat>
+** TODO blah blah
+   SCHEDULED: <2018-08-25 Sat>
+** DONE third most important thing that you have to do
+   CLOSED: [2018-08-25 Sat 21:06]
+Some notes
+** TODO blah blah
+This is some text under this heading
+** This is not a todo
+
+* Another heading
+** Something else under
+** Toto
+Some text here
+Here is a [[http://www.google.com][link]]
+Here is a local [[file:todo.org::*UI][link]]
+** TODO A new todo
+here is a list:
+- one :: un
+- two :: deux
+
+blah blah
+1. one
+2. two
+** Lord of the rings
+   My blah blah are
+   1. the attack
+   2. prout
+      1. this is weird
+         1. not sure this work
+      2. [ ] 
+      3. [ ] 
+      4. [ ] 
+blah
+
+      5. [X] 
+   3. one
+   4. two
+   5. three
+a numbered list
+   * un
+     * deux
+3 trois
+** 
+** 
+** TODO P
+
+il etait une fois un petit
+3 trois
+3 trois
+3 trois
