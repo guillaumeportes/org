@@ -82,3 +82,4 @@ https://www.typingclub.com/sportal/
 [[javascript.info]]
 [[https://services.github.com/on-demand/]]
 [[learn.shayhowe.com]]
+[[http://exercism.io]]
