@@ -1,5 +1,0 @@
-* Tasks
-** TODO Unit and integration testing for core libraries
-** TODO Port game template creation to bash
-** DONE Add analytics, tenjin and ironsource to backward driver
-   CLOSED: [2018-07-30 Mon 11:20]

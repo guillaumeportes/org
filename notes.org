@@ -1,4 +1,0 @@
-* Tasks
-** TODO toto
-   [2018-08-27 Mon]
-   [[file:~/org/learn-org.org::*P][P]]
