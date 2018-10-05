@@ -1,0 +1,10 @@
+* brew
+* emacs
+* oh-my-bash
+* dir-colors
+* atom-one-dark-terminal
+* powerline fonts
+* xcode tools
+* awscli
+* python brew
+
