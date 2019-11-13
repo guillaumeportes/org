@@ -1,85 +1,175 @@
-* Tasks
-* Stuff to learn
-** Clojure (Koans)
-** ClojureScript
-** Kubernetes / AWS
-** Automated Testing
-** SNS/SQS
-** CI
-** Protobuf
-** Parquet
-** Server versioning to avoid forcing client updates
-** Machine learning
-** Pull requests
-** Game data in actual database
-** Blockchain
-** Web front end (Chromium)
-** Open source dashboards (python / matplotlib /pandas / pyplot / dash)
-** BASH
-http://mywiki.wooledge.org/BashGuide
-https://exercism.io/my/tracks/bash
-* Game systems
-** Rewards
-** UI
-Way to handle sorting (everything in its own Canvas?)
-Way to handle when dialogs should be allowed to pop up (fullscreen ui)
-Atlasses, bundles, build size
-Preloading, streaming
-** State Machine
-** State (UI Activation, disabling buttons, etc.)
-** Tweening with a static class instead of coroutines
-** Game Data
-Need to completely decouple server data from client components: this will get rid of the patching issues related to removing / adding data that results in removing / adding Unity components.
-** Asset streaming: on demand references, downloads, batching of loading on demand (to avoid yielding multiple times per frame)
-** Rewards and their UI
-** Coroutines that don't rely on Unity?
-** Onboarding
-** Quests
-** Store
-** Drive more from server: onboarding, quests, some UI stuff (in order to allow for "experiments")?
-** Download server content upfront so there's no blocking during gameplay (see Clash Royale)
-** Metadata on components / game objects
-** Scriptable objects
-** Import tools
-** State controller
-** Player requirements / gating progressio / feature locks
-** Analytics
-** Crash reporting
-** Localisation
-* Email + Emacs
-https://wwwtech.de/articles/2016/jul/my-personal-mail-setup
-https://notanumber.io/2016-10-03/better-email-with-mu4e/
-** Notmuch
-[[https://notmuchmail.org/getting-started/]]
-https://notmuchmail.org/emacstips/
-https://notmuchmail.org/notmuch-emacs/
-https://notmuchmail.org/howto/
-** OfflineIMAP
-https://github.com/OfflineIMAP/offlineimap/blob/master/offlineimap.conf
-** MSMTP
-https://marlam.de/msmtp/msmtp.html
-https://marlam.de/msmtp/msmtprc.txt
-* ORG
-http://emacslife.com/baby-steps-org.html
-http://sachachua.com/blog/emacs/
-https://org-trello.github.io/
-http://doc.norang.ca/org-mode.html
-https://orgmode.org/orgguide.pdf
-http://emacs.cafe/emacs/orgmode/gtd/2017/06/30/orgmode-gtd.html
-http://joshrollinswrites.com/2018/08/23/switching-to-multiple-file-setup/
-* Emacs
-https://www.masteringemacs.org/all-articles
-https://jblevins.org/log/advanced-emacs
-https://www.gnu.org/software/emacs/manual/html_node/emacs/Mark.html
-http://sachachua.com/blog/category/emacs/
-* Stuff to check out
-https://notabug.org/
-* Typing
-https://www.typingclub.com/sportal/
-* URLs
-[[https//docs.swift.org/swift-book/LanguageGuide/TheBasics.html]]
-[[mywiki.wooledge.org]]
-[[javascript.info]]
-[[https://services.github.com/on-demand/]]
-[[learn.shayhowe.com]]
-[[http://exercism.io]]
+* mow.io
+** DONE get latest max
+   CLOSED: [2019-11-05 Tue 15:00]
+** DONE switch to lion max account
+   CLOSED: [2019-11-05 Tue 15:00]
+** WAITING connect and ask Nick for units and hook them up
+** DONE upgrade to Unity 2019.2.7
+   CLOSED: [2019-11-05 Tue 12:52]
+** DONE change project settings: Android 5.0, IL2CPP, etc.
+   CLOSED: [2019-11-05 Tue 12:57]
+** DONE version number
+   CLOSED: [2019-11-05 Tue 12:55]
+** DONE get latest client-facebook
+   CLOSED: [2019-11-05 Tue 12:52]
+** DONE get latest client-appsflyer
+   CLOSED: [2019-11-05 Tue 12:54]
+** WAITING connect to correct admob id
+
+* client-max
+** DONE get changes from grate it
+   CLOSED: [2019-11-05 Tue 11:24]
+** TODO get cross promo from grate it
+** DONE fix build process when safedk files not around
+   CLOSED: [2019-11-05 Tue 11:25]
+** TODO make GDPR part of client-max
+
+* client-core
+** DONE get changes (notifications for instance) from grate it
+   CLOSED: [2019-11-05 Tue 11:34]
+** DONE get changes (colors) from save them all
+   CLOSED: [2019-11-08 Fri 12:39]
+** TODO get iap manager from grate it
+
+* game-template
+** DONE update to latest unity
+   CLOSED: [2019-11-05 Tue 15:00]
+** DONE remove tenjin
+   CLOSED: [2019-11-05 Tue 14:58]
+** TODO figure out the whole notifications / profile issue
+** DONE fix gitattributes.sh
+   CLOSED: [2019-11-08 Fri 12:49]
+** TODO change unity cloud build to guess unity version
+* client-facebook
+** DONE get changes from grate it
+   CLOSED: [2019-11-05 Tue 11:38]
+
+* client-appsflyer
+** DONE get changes from grate it
+   CLOSED: [2019-11-05 Tue 11:36]
+** TODO implement IAP validation
+
+* misc
+** DONE create ball buddies
+   CLOSED: [2019-11-05 Tue 15:18]
+** DONE add devices to profiles
+   CLOSED: [2019-11-05 Tue 15:14]
+
+* battlehand
+** DONE add cards to shop
+   CLOSED: [2019-11-05 Tue 15:34]
+** DONE check card is in packs
+   CLOSED: [2019-11-05 Tue 15:34]
+** DONE change build numbers
+   CLOSED: [2019-11-05 Tue 15:34]
+** DONE build config / change content path / change version number
+   CLOSED: [2019-11-05 Tue 15:34]
+** DONE build server and deploy to submission
+   CLOSED: [2019-11-06 Wed 08:15]
+** DONE build masters
+   CLOSED: [2019-11-06 Wed 08:16]
+** TODO push master on battlehand-game
+** DONE copy bundles to content path in s3
+   CLOSED: [2019-11-06 Wed 08:22]
+** DONE upload webgl to preview
+   CLOSED: [2019-11-06 Wed 08:22]
+
+* save them all
+** DONE check animations
+   CLOSED: [2019-11-07 Thu 15:33]
+** DONE clean up death code (both in Death.cs and AI.cs)
+   CLOSED: [2019-11-06 Wed 11:56]
+** DONE check buzzsaw for fx triggering all the time
+   CLOSED: [2019-11-06 Wed 10:42]
+** DONE hook up FX_Death_Impact_01 when fall death
+   CLOSED: [2019-11-06 Wed 10:42]
+** DONE fix crusher
+   CLOSED: [2019-11-06 Wed 10:47]
+** DONE sort collision when sliding or ducking
+   CLOSED: [2019-11-07 Thu 15:33]
+** DONE sort out flow / levels
+   CLOSED: [2019-11-06 Wed 14:31]
+** DONE make sure only characters collide with line 
+   CLOSED: [2019-11-06 Wed 12:19]
+** DONE fix issue when trail cuts through zipline collision
+   CLOSED: [2019-11-07 Thu 15:33]
+** DONE shock animations: death script to allow for random animation
+   CLOSED: [2019-11-07 Thu 17:06]
+** DONE exit fade using animation time
+   CLOSED: [2019-11-07 Thu 17:06]
+** DONE exit moving towards centre of door
+   CLOSED: [2019-11-07 Thu 17:06]
+** DONE fix crusher sometimes going under
+   CLOSED: [2019-11-11 Mon 17:10]
+** DONE death effects should spawn at contact point
+   CLOSED: [2019-11-11 Mon 11:10]
+** DONE debug ui to cycle through levels
+   CLOSED: [2019-11-11 Mon 11:19]
+** DONE check ziplines have the right position
+   CLOSED: [2019-11-11 Mon 17:10]
+** DONE ads
+   CLOSED: [2019-11-11 Mon 11:19]
+** DONE client-max
+   CLOSED: [2019-11-08 Fri 12:58]
+** DONE client-core
+   CLOSED: [2019-11-08 Fri 12:49]
+*** DONE take colors changes back in
+    CLOSED: [2019-11-08 Fri 12:49]
+** DONE remove tenjin
+   CLOSED: [2019-11-08 Fri 12:43]
+** DONE client-facebook
+   CLOSED: [2019-11-08 Fri 12:58]
+** DONE client-appsflyer
+** DONE analytics
+   CLOSED: [2019-11-11 Mon 11:10]
+** DONE ui pass
+   CLOSED: [2019-11-11 Mon 11:19]
+** DONE remove bitcode - stick in client-core?
+   CLOSED: [2019-11-11 Mon 11:19]
+** DONE onboarding
+   CLOSED: [2019-11-12 Tue 12:44]
+** DONE delay failure screen appearing
+   CLOSED: [2019-11-11 Mon 11:20]
+** DONE change bouncers to be like springs in mario / sonic
+   CLOSED: [2019-11-08 Fri 11:12]
+** DONE look at swinging ball
+   CLOSED: [2019-11-08 Fri 11:18]
+** DONE speed up mechanic
+   CLOSED: [2019-11-08 Fri 12:11]
+** DONE fix bounce pad level 7
+   CLOSED: [2019-11-11 Mon 12:26]
+** DONE investigate issue with portals where characters seem to collide with each other
+   CLOSED: [2019-11-11 Mon 14:32]
+** DONE cleanup controller reset (currently only cleans trails in game.cs, but the controller might be plotting)
+   CLOSED: [2019-11-11 Mon 11:02]
+** DONE trigger not working well on entrance: seems to be obstructed by the other colliders
+   CLOSED: [2019-11-09 Sat 12:03]
+** DONE inside collider triggers when it shouldn't
+   CLOSED: [2019-11-09 Sat 11:33]
+** DONE haptics
+   CLOSED: [2019-11-12 Tue 17:14]
+** DONE fix banner placement background on iphone x
+   CLOSED: [2019-11-11 Mon 14:44]
+** DONE fix characters sometimes going through trail when speeding up
+   CLOSED: [2019-11-11 Mon 15:28]
+** DONE transparent trail when drawing
+   CLOSED: [2019-11-12 Tue 12:54]
+** DONE walking vertically on rotators
+   CLOSED: [2019-11-12 Tue 15:51]
+** DONE remove bump animation
+   CLOSED: [2019-11-12 Tue 13:52]
+** DONE fix issue with timescale
+   CLOSED: [2019-11-12 Tue 14:36]
+** DONE roll back client-facebook
+   CLOSED: [2019-11-12 Tue 15:51]
+** DONE on second zipline level, character still animates with zipline after exiting the first zipline
+   CLOSED: [2019-11-12 Tue 15:51]
+** TODO fix iphone x minimising drawing a trail
+** DONE fix double haptic on saving them
+   CLOSED: [2019-11-12 Tue 17:36]
+** DONE first interstitial level 5
+   CLOSED: [2019-11-12 Tue 17:34]
+** TODO ripple effect on onboarding speed up finger
+** TODO investigate turning around when little mountain to climb
+** TODO clean up transitions: play ads shows old level at the end
+** TODO diff grateit client-facebook with master
