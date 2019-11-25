@@ -1,0 +1,74 @@
+#+OPTIONS: num:nil toc:nil author:nil
+#+REVEAL_THEME: white
+#+REVEAL_TITLE_SLIDE:
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+
+* COMMENT thoughts
+** original presentations
+*** fine, but out of date
+*** too verbose
+** another play
+*** we want to disrupt hyper casual
+*** indies cannot compete
+*** no revenue to apple
+*** charts are uncontrollable
+*** games are full of ads, which are often inappropriate
+*** quality is very inconsistentf
+
+* Another Play
+Reinventing Hyper-Casual
+* Another Place in 2018-2019
+- 35 new games
+  - Fashion Inc., Mow.io, Save Them All!, Mr Pole Vault, Grate It!
+- Wide range of genres
+  - Action, idle, puzzle, etc.
+- New production ethos
+  - Much faster to market approach, same high quality
+* Findings
+- There is a huge appetite for bite sized experiences
+- Quality bar is constantly rising
+- Current business model is very tough on independent developers
+- Ample room to innovate, despite appearances
+- A lot of good games simply cannot thrive in the current setup
+- Most games lack social mechanics
+* Opportunity
+- A clearer and cleaner way of monetising, leveraging subscriptions
+- Marketing effort focussed on one product
+- Retain players for a long time and build a real community
+- Build an ecosystem where all high quality games have a place
+  - Social mechanics
+  - Network effect
+* Another Play
+- "Netflix for Hyper-Casual"
+  - No ads, subscription only service
+- A hub for consistent, high quality experiences
+- All quality games have a place and contribute to the service's success
+- A set of social mechanics unifying the experience
+  - Leaderboards, challenges, achievements, chat, recommendations, live events, etc.
+* Another Place Approach
+** Stage 1 - Q1 2020
+- 40+ games without ads
+- One new game every week
+- Free platform app, 3 games can be played for free, forever
+- Subscription unlocks all games for $3.99 per month
+- Aim is to build audience and community, and to find the right marketing
+- Reviewers have access to all content at the point of submission
+** Stage 2 - Q3 2020 (1/2)
+- 60+ games
+- Two new games every week
+- Common in game economy
+  - New subscription tiers offering different amounts of currency on top of the base service
+  - Currency used to replace rewarded video placements: continues, in game items
+  - ...As well as platform-level items: profile skins, etc.
+** Stage 2 - Q3 2020 (2/2)
+- Social mechanics within games: leaderboards, challenges, etc.
+- Social mechanics at the platform level: chat, recommendations, friends
+- Advanced curation
+  - Based on usage
+  - ...As well as social mechanics
+** Stage 3 - H1 2021
+- 100+ games
+- A new game every day
+- Unlock third party publishing
+- A whole host of games become viable thanks to the platform effect
+- Advanced social mechanics: live events, competitions, etc.
