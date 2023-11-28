@@ -1,0 +1,105 @@
+* Facts
+** Runway until begining of February '24
+** Burn is €55K
+** Mana Storm
+*** US CPI > $2.5
+*** Low volume
+*** 2 months away from testable state (onboarding / monetisation / pvp metagame all missing)
+** No other real revenue (F2F is $1K / month, BattleHand was shut down, etc.)
+* Options
+** Pursuing Mana Storm does not feel like a viable option
+*** Too expensive to test
+*** CPI will likely rise significantly
+** Work for Hire
+*** Ad agency work taking ages to materialise
+*** Margin is unknown
+** Roblox / Supersolid
+*** Yet another "pivot"
+*** Far from a done deal
+** Voodoo retainer
+*** $15K / month
+*** Extends the runway by 2 months
+*** 5 months to find success
+** Other potential HC publishers
+*** Very unlikely to get close to the £30K / month we got from Coda
+** Apple Arcade
+*** No obvious appetite as no answer to feeler
+** Finding a publisher for Mana Storm
+*** Timeline feels too challenging
+* Thoughts
+** None of the options allow us to pursue Mana Storm
+** All options feel like survival as opposed to opportunities
+** We have been surviving for a long time
+** It is very unlikely that something special comes out of surviving
+** Surviving does not allow for reflection
+* Post mortem
+** 2012
+*** Founder crap
+*** No real plan
+*** Scramble at the end
+** 2013
+*** Dragon Finga
+*** Surviving already
+*** Learning F2P
+** 2014
+*** Raising money
+*** BattleHand development struggles
+** 2015
+*** Scrambling to finish BattleHand
+*** Good results in August
+*** Running out of money, taking deal with Kongregate
+** 2016
+*** BH WW release in January
+*** Trying to move the needle on KPIs, not managing anything
+*** Growing the team
+*** BHH deal being worked on
+*** John / Neil working on stuff
+*** Spelly Cats
+** 2017
+*** Making BHH
+*** Weird attempt at buying the IP from Kongregate
+** 2018
+*** Finishing BHH
+*** Pivotting to HC as no more runway
+*** Weird pitches to Miniclip and MAG for a play hub app
+*** Trying to sell to 22 Cans, Keywords, even talking to fucking Wiggins!
+*** Deal with Lion signed last minute, end of December
+*** Getting rid of John
+*** Social Point buying BH art
+** 2019
+*** Making lots of games
+*** Voodoo sending an NBO
+*** Lion letting us go
+** 2020
+*** Pursuing the Voodoo deal
+*** Working with Coda
+*** G moving to France
+*** Voodoo deal falling through
+*** Working with Voodoo
+*** Getting rid of the shareholders and raising new money
+** 2021
+*** Making Fat 2 Fit
+*** Trying to repeat and failing
+*** Trying to grow the team and failing
+** 2022
+*** Pivot to Web3
+*** Making Chess on Web3
+*** Making Tinka platform on Web3
+*** Rebranding APP -> Tinka
+*** Going to Slush and being brought back down to earth
+** 2023
+*** Pivot to Mana Storm
+*** Making a game on WebGL for total independence
+*** Trying to grow organically
+*** Failing to do so - not so easy to get 20K players
+** Thoughts
+*** The following are times we were following a well thought out plan. Total time: ~3 years
+**** When we setup the initial entity until the Carters left: 1/12 - 8/12
+**** After we raised the first money for BH until we signed with Kong: 4/14 - 9/15
+**** After we raised money for HC incarnation of the business, until Web3: 1/21 - 1/22
+*** The following are times we were working on stuff we rushed into, had to scramble, etc. Total time: ~9 years
+**** Dragon Finga: 8/12 - 4/14
+**** Kongregate: 9/15 - 6/18
+**** HC: 6/18 - 1/21
+**** Web3: 1/22 - 1/23
+**** Mana Storm: 1/23 - Now
