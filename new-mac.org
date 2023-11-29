@@ -1,5 +1,6 @@
 * brew
 * emacs
+** chemacs
 * oh-my-bash
 * dir-colors
 * atom-one-dark-terminal
