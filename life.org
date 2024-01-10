@@ -1,8 +1,3 @@
-* n26
-** spotify
-** netflix
-** babbel
-** apple
 * short term plan
 * medium term plan
 * long term plan
@@ -16,10 +11,6 @@
 * portuguese
 * tasks
 * appointments
-* order medaille Cookie
-* change address online for Cookie
-* Delmotte for agave
-* Pot for swimming pool
 * setup emacs for Unity / C#
 * one chapter a day common lisp
 * 15 mns reading minimum per day
@@ -156,3 +147,78 @@ G.
 ** i rush
 ** je butine: je suis attire par la nouveaute et les gens nouveau, au detriment des autres (du moins temporairement)
 ** i have felt i need to provide the vision
+* christmas
+** Alex
+*** DONE mp3 player
+*** DONE spintronics
+** all
+*** DONE board game
+*** DONE telescope
+** Joana
+*** lego plane
+*** DONE headphones
+*** DONE planetarium
+** Amandine
+*** DONE headphones
+*** DONE parfum
+** Susana
+** food
+*** DONE oie
+*** DONE saucisse
+*** vin + champagne
+*** aiguille
+*** fil
+* piscine
+** controler chlore et ph une fois par mois en hiver, une fois par semaine en ete
+** pour faire baisser le niveau d'eau: vidange ou lavage du filtre
+** vidange
+1. eteindre filtration
+2. mettre vanne multivoies en vidange
+3. ouvrir vanne de vidange
+4. allumer filtration
+5. eteindre filtration
+6. fermer vanne de vidange
+7. mettre vanner multivoies en filtration
+8. allumer filtration
+** sel
+*** rendez-vous en avril
+** quand on rallume la filtration la vanne bypass doit etre OUVERTE
+** ph menu: code est 1234
+** produit hivernage: en janvier, metter dans la piscine le reste du bidon
+** anti algues: a partir d'avril / mai, une petite poignee par semaine
+** laver le filtre une fois par mois en hiver, une fois toute les 2 semaines en ete
+*** si le refoullement est moins fort, laver le filtre
+** PH
+*** quand le PH est trop bas, rajouter 1 kg the PH+
+*** quand le PH est trop haut, cela veut dire que le PH- ne marche plus correctement comme c'est automatique
+**** verifier qu'il y en a assez dans le bidon
+**** ce n'est que pendant l'ete que cela fonctionne (sel)
+*** le bon PH est entre 7 et 7,4 (couleur SAUMON)
+** Chlore
+*** bon niveau entre 1 (hiver) et 3 (ete). Un beau jaune CITRON
+*** si trop faible, rajouter un galet
+*** si trop fort, ne rien faire, ca redescendra tout seul
+** plage horaire
+*** picot a l'interieur sont les heures actives
+*** temperature de l'eau divisee par 2 -> nombre d'heures, i.e. a 8 degres, 4 heures de filtration. En hiver, on commence a 6h du matin
+** vanne multivoies dans le sens des aiguilles d'une montre
+** position des vannes "normale":
+*** skimmer ouverte au max
+*** bonde de fond ouverte a moitie
+*** bypass ouverte au max
+*** le reste est ferme
+* workouts
+
+ Here's how it works: Set a countdown timer for 60 seconds. Complete all reps of the first exercise (10 reps in the plan below) and rest the remainder of the minute. Then, begin another 60-second timer, do the next exercise, perform all reps, and rest the remainder of the minute. You’ll complete this pattern for all five exercises. That’s one full round of the workout. Perform 2 to 3 total rounds and call out it day.  
+
+    Bodyweight squat: 10 reps
+
+    Pushups: 15 reps
+
+    Walking lunges: 12 reps/leg
+
+    Inverted row: 15 reps (or load a backpack and do rows)
+
+    Plank: 20 seconds
+* comptes
+** 
