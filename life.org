@@ -42,132 +42,10 @@
 * blog posts
 ** lessons from 12 year failure
 ** using gen ai for game ai bot
-* work
-** sebastien de halleux
-Salut Sébastien,
-
-First of all thanks for your time today, it was very interesting to hear about Matchday and your plans for it.
-
-We thought we would send you as much information as possible so we can make Thursday's chat productive.
-
-As discussed, we expect to be done with the liquidation process by the end of December, and we are paying the staff (and ourselves) until then. January would indeed be ideal for anything new to happen.
-
-The option we currently have on the table is fairly advanced, and is to setup and manage a small studio for a bigger entity, with our current team. We would have significant equity in the business, and would keep the same salaries we currently have (which I list below). We would have reasonable control both creatively and operationally. We expect this to be ready to go in January.
-
-As a recap, the team worked together on BattleHand and BattleHand Heroes (RPG + CCG), 100+ hyper casual games (all kinds, up to two published prototypes a week, 1 engineer + 1 artist per team) including the WW hit Fat 2 Fit!, and Mana Storm (Hearthstone like CCG, recently cancelled during testing). All those games were made using Unity. Server components ran on AWS using various languages (mainly Java and Common Lisp). On Mana Storm we experimented a fair amount with AI for art generation (mostly) as well as for playing the game and generating card content and code.
-
-We also worked for a short year on a Web3 platform for creating and publishing interactive stories.
-
-While the current team is five members, it peaked at ~20 employees back in 2018, when we were finishing BattleHand Heroes and operating BattleHand.
-
-Here are the team's details including annual gross salaries in brackets:
-
-- Jeremie (France / €120K): as mentioned in the call Jeremie worked in production at Lionhead on Fable, Fable 2, Fable 3 and The Movies. When the studio started Fable 4 he was Executive Producer of the franchise. At Tinka Jeremie ran the operations (including finance, shareholder management, business development, etc.) as well as the team, and was heavily involved in all aspects of product management. He was a game designer on many hyper casual games as well as Mana Storm, our final game
-
-- Myself (France / €120K): I also worked at Lionhead on Fable, Fable 2 and Fable 3, climbing up the ladder of the engineering track. When we started Fable 4 I was Technical Director for the franchise. At Tinka I was of course the CTO (with all it entails), but like Jeremie was super involved with product management and design. Throughout the years I worked on both client and server side of things, apart from Mana Storm, where I only handled server stuff
-
-- Inés de la Torre (Spain / Senior Engineer / €67K / https://www.linkedin.com/in/inesdelatorrequesada/): Inés joined Tinka in 2016 after stints at Lionhead and Sony. On both BattleHand and BattleHand Heroes she worked on client and server side functionality (including the very involved Guild Wars feature), although she is more of a client engineer (mostly Unity of course). On both those games work was a lot system related, i.e. game modes, UI, leaderboards, etc. On our hyper casual games she would be the sole programmer the prototypes she worked on. On Mana Storm she was the sole engineer working on the client
-
-- James Vale (England / Senior Artist / £65K / https://www.linkedin.com/in/jim-vale-7312aa2/): James joined Tinka in 2014 after 4+ years at Lionhead in various art positions (including managing art outsourcing and art direction). He has been in games since the 90s, and while primarily a 3D artist, has developed skills across the board: 2D, UI, VFX, etc. On BattleHand and BattleHand Heroes James built all the environments (i.e. all levels). On our hyper casual games he would be the sole artist on the ones he worked on. On Mana Storm he did everything apart from the card illustrations
-
-- Elliot Upton (England / Senior Artist / £53K / https://www.linkedin.com/in/elliot-upton-57848a25/): Elliot joined Tinka in 2014 as well, after 5+ years at Lionhead where he was a concept artist (as well as handling a lot of UI work) on Fable 3 and other projects. A very talented illustrator, Elliot worked on card design on BattleHand, BattleHand Heroes and Mana Storm. When we started making hyper casual games he added 3D and VFX on his list of skills, and was the sole artist on the prototypes he worked on
-
-In summary, a lot of experience and versatility. The last 10 odd years in mobile but a lot of PC / console AAA background in there too.
-
-They all also have the fantastic quality of being very easy to work with: they get on with their stuff, and don't require much management. They are very cool, and have seen a lot during 7+ years in a small startup constantly fighting against the tide, as you can imagine.
-
-I think that covers most of it, but don't hesitate if there's something else you'd like to know regarding the profiles.
-
-From our point of view, here is what we need to find out:
-
-- Would everyone be employed by local entities? This is the case at the moment, and of course important when it comes to taxes, benefits, etc.
-- What kind of structure do you have in mind? Would Jeremie be Studio Head and myself Technical Director of the game studio (or something similar), with the other guys keeping similar titles and responsibilities?
-- What packages would you put forward in terms of salaries and benefits?
-- While the high level game design seems clear, could you expand as to why you're building the team now as opposed to before? You mentioned previous prototypes, do they mean that the current design has been validated through metrics?
-
-Finally, it is key to us to be able to feel confident about the viability of the options we explore, given the timeline.
-
-Hopefully the above is helpful to our chat on Thursday.
-
-Best,
-
-G.
-* choice
-** what do i like
-*** challenges
-*** code
-*** contribute at all levels, this is partly why i left LH
-*** lead people
-*** working on different things
-*** learn new things 
-*** meet new people
-*** freedom
-*** having a clear goal and executing
-** what do i dislike
-*** annoying people
-*** forced 1:1 or meetings
-*** admin
-** what do i want
-*** financial stability
-*** career progression
-*** fun
-*** success
-** voodoo
-*** fun
-*** challenge
-*** coding
-*** no admin
-*** financial stability?
-*** success? 10%
-** matchday
-*** learning
-*** people
-*** building team
-*** admin, probably
-*** challenge
-*** career progression
-*** financial stability?
-*** success? 50%
-*** super ambitious setup
-*** sebastien's impressive credentials
-*** a football game funded by messi's investment vehicle
-** what did i enjoy in my career
-*** success and scale of the fable games
-*** learning shit on dragon finga
-*** progressing at lionhead
-*** learning common lisp
-*** learning blockchain
-*** making battlehand
-*** learning the server stuff
-*** the hope we would make it big
-*** messing around with emacs
-*** using common lisp on mana storm
-*** setting up the server stuff on mana storm
 * me
 ** i rush
 ** je butine: je suis attire par la nouveaute et les gens nouveau, au detriment des autres (du moins temporairement)
 ** i have felt i need to provide the vision
-* christmas
-** Alex
-*** DONE mp3 player
-*** DONE spintronics
-** all
-*** DONE board game
-*** DONE telescope
-** Joana
-*** lego plane
-*** DONE headphones
-*** DONE planetarium
-** Amandine
-*** DONE headphones
-*** DONE parfum
-** Susana
-** food
-*** DONE oie
-*** DONE saucisse
-*** vin + champagne
-*** aiguille
-*** fil
 * piscine
 ** controler chlore et ph une fois par mois en hiver, une fois par semaine en ete
 ** pour faire baisser le niveau d'eau: vidange ou lavage du filtre
@@ -221,4 +99,92 @@ G.
 
     Plank: 20 seconds
 * comptes
-** 
+** 21/12/2022: 111800
+** IN: 122540
+*** Tinka: 89827
+*** Susana: 24625
+*** CAF: 1382
+** OUT: 57113 + 202893 - 49000 = 211000
+*** Electricity: 3574
+*** Water: 1458
+*** Home insurance: 1095 (83 + 8 / month)
+*** Car insurance: 1509
+*** Car (petrol + service):
+*** Zoe: 15000
+*** Zoe battery: 1066 (104 / month)
+*** Salle de bains: 238 + 3977 + 2651 + 13952 + 104
+*** Boiler: 1712
+*** Supermarket + food:
+**** Carrefour: 3348+5815+427
+**** Leclerc: 4357+6662+128+494+39
+**** Boucheries: 322+571
+**** Boulangeries: 317+1181
+**** Bio: 119
+**** Poisson: 87
+*** Cash: 3797 + 2840
+*** Appliances: 273 + 1600
+*** Travel / holidays:
+*** Bank account: 180 (15 / month)
+*** Mortgage: 36389 (3044 / month)
+*** Mortgage insurance: 4052 (337 / month)
+*** Piscine: 7207
+*** Netflix: 224
+*** Internet + mobiles: 922
+*** Stephane: 2593
+*** Shopping: 
+**** Zara, mango, stradivarius, pull and bear, bershka, galeries lafayette, desigual, jennyfer, intimissimi, tezanis, morgan, etam
+*** Health: 
+*** Jardin: 1332
+*** Spotify: 230
+*** Checks: 2221
+*** Bois de chauffage: 738.5 + 657
+*** Electricien: 832
+*** Express VPN: 110
+*** Autoroute: 189 + 465
+*** Cantine: 66
+*** Cookie: 145 + 885
+*** Amazon: 1137+297
+*** Ikea: 1366
+*** Amelia: 1100
+*** 1password: 66
+*** Bricolage: 576 + 1136
+*** Furniture: 856 + 390
+*** Decathlon: 595 + 1753
+*** Mega Shark: 1000
+*** Apple: 205 (12 / month)
+*** Google: 39 (1.9 / month)
+* presentation
+** Les metiers du jeu video (focus sur le "game programmer")
+** L'industrie du jeu video
+*** Relativement jeune (~50 ans)
+*** Mondiale: France, Angleterre, USA, Canada, Europe de l'est, Chine, Inde, etc.
+*** En croissance constante (> cinema)
+*** Entreprises de toutes tailles (1 -> 20000+)
+**** Developpeurs, editeurs, outils, etc.
+*** Variete de plateformes
+**** Mobile, PC, consoles, VR
+** Variete de metiers
+*** Ingenieur / programmeur
+*** Artiste (2D, 3D)
+*** Animateur
+*** Designer
+*** Audio
+*** Production
+*** QA
+*** Marketing
+*** Business development
+** Variete dans la variete (UI programming, engine programming, tools programming, gameplay programming, physics programming, etc.)
+** At the forefront of high tech (AI, etc.)
+** Tres collaboratif
+** Metier creatif, tres satisfaisant
+** Horaires tres fluides, crunch
+** Remote work
+** Game programmer
+*** Portfolio
+*** Etudes scientifiques: informatique (programmation), maths, physique
+**** ecole d'ingenieur, dut, bts - le plus le mieux
+**** ecoles de jeu video peut etre interessante
+**** le mieux c'est qu'on peut faire des jeux tout seul: Unity / Unreal / Godot / Roblox / Fortnite. Les outils sont gratuits
+*** Surtout la passion et la capacite d'apprendre de nouveau languages
+*** Anglais !
+*** Salaire de depart ~25-30K euros
