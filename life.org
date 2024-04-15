@@ -1,3 +1,6 @@
+* edf
+** tarif base: 0.2516
+** tarif bleu: 0.2068 / 0.2700
 * short term plan
 * medium term plan
 * long term plan
@@ -59,13 +62,16 @@
 7. mettre vanner multivoies en filtration
 8. allumer filtration
 ** sel
-*** rendez-vous en avril
+*** appareil a 80%
+*** regler en fonction du taux de chlore: faible, augmenter la production. forte, la reduire
+*** taux de sel entre 4 et 8. verifier avec les bandelettes
 ** quand on rallume la filtration la vanne bypass doit etre OUVERTE
 ** ph menu: code est 1234
 ** produit hivernage: en janvier, metter dans la piscine le reste du bidon
 ** anti algues: a partir d'avril / mai, une petite poignee par semaine
 ** laver le filtre une fois par mois en hiver, une fois toute les 2 semaines en ete
 *** si le refoullement est moins fort, laver le filtre
+*** si le manometre est > 1.5, laver le filtre
 ** PH
 *** quand le PH est trop bas, rajouter 1 kg the PH+
 *** quand le PH est trop haut, cela veut dire que le PH- ne marche plus correctement comme c'est automatique
@@ -85,6 +91,8 @@
 *** bonde de fond ouverte a moitie
 *** bypass ouverte au max
 *** le reste est ferme
+** nettoyage panier
+*** egalement fermer la vanne electrolyse depart
 * workouts
 
  Here's how it works: Set a countdown timer for 60 seconds. Complete all reps of the first exercise (10 reps in the plan below) and rest the remainder of the minute. Then, begin another 60-second timer, do the next exercise, perform all reps, and rest the remainder of the minute. You’ll complete this pattern for all five exercises. That’s one full round of the workout. Perform 2 to 3 total rounds and call out it day.  
@@ -153,38 +161,59 @@
 *** Mega Shark: 1000
 *** Apple: 205 (12 / month)
 *** Google: 39 (1.9 / month)
-* presentation
-** Les metiers du jeu video (focus sur le "game programmer")
-** L'industrie du jeu video
-*** Relativement jeune (~50 ans)
-*** Mondiale: France, Angleterre, USA, Canada, Europe de l'est, Chine, Inde, etc.
-*** En croissance constante (> cinema)
-*** Entreprises de toutes tailles (1 -> 20000+)
-**** Developpeurs, editeurs, outils, etc.
-*** Variete de plateformes
-**** Mobile, PC, consoles, VR
-** Variete de metiers
-*** Ingenieur / programmeur
-*** Artiste (2D, 3D)
-*** Animateur
-*** Designer
-*** Audio
-*** Production
-*** QA
-*** Marketing
-*** Business development
-** Variete dans la variete (UI programming, engine programming, tools programming, gameplay programming, physics programming, etc.)
-** At the forefront of high tech (AI, etc.)
-** Tres collaboratif
-** Metier creatif, tres satisfaisant
-** Horaires tres fluides, crunch
-** Remote work
-** Game programmer
-*** Portfolio
-*** Etudes scientifiques: informatique (programmation), maths, physique
-**** ecole d'ingenieur, dut, bts - le plus le mieux
-**** ecoles de jeu video peut etre interessante
-**** le mieux c'est qu'on peut faire des jeux tout seul: Unity / Unreal / Godot / Roblox / Fortnite. Les outils sont gratuits
-*** Surtout la passion et la capacite d'apprendre de nouveau languages
-*** Anglais !
-*** Salaire de depart ~25-30K euros
+* tennis
+** match par equipe 28/1/24
+*** souvent en desequilibre
+*** crispe en general. pas de solution pour se relaxer cote revers (cote coup droit j'arrive a ralentir)
+*** difficile de jouer a 80%
+*** doubles fautes, encore. peut etre trop conservateur dans le simple, car tres bien servi dans le double alors que je mettais beaucoup plus de rythme
+*** encore des mauvais choix tres frequents: lobs mal penses et negocies, etc.
+** cagnes 21/1/24
+*** un echauffement de dingue: super relax, frappais la balle tres tres bien. puis crispation
+*** pris de vitesse souvent
+*** j'ai essaye de jouer sans faire de faute. du coup j'ai joue mou et court
+*** des doubles fautes sur des points importants
+*** revenu a 1 set partout et tie break de merde
+*** crispe en general
+** match par equipe 21/1/24
+*** trop facile, rien a dire
+** generalites
+*** des que l'adversaire renvoie la balle, je perds. je fais toujours la faute en premier
+**** exception si l'adversaire est vraiment pas bon et joue lent et court, i.e. Saint Cezaire
+*** je suis moins crispe a l'echauffement - parfois pas du tout, mais je me crispe bien en match
+*** je retourne plutot mal: stress, mauvais choix, etc.
+*** je suis souvent mal place
+**** je cours tres vite mais clairement je ne suis pas assez dynamique
+** que faire?
+*** trouver une solution pour ne pas etre tendu
+**** en coup droit, preparer lentement si possible
+**** en revers, fait pareil, et alonge bien
+**** en service tu sais faire. prends ton temps et sers un peu plus doucement
+*** se forcer a etre toujours sur la pointe des pieds
+**** petits pas, reprise d'appui juste avant le service adverse, reprises d'appui apres mon service, reprise d'appui a chaque coup adverse
+**** il faut etre rigoureux et discipline avec ca
+*** mieux juger les balles. du fait que je ne suis pas assez dynamique je mets trop de temps a reagir: tres souvent desequilibre sur des balles longues alors que je suis dans le terrain. peut-etre plus de concentration
+*** comment faire de meilleurs choix?
+**** je vais souvent trop vite: smash dans le filet, etc. Va plus lentement, surtout quand tu fonces sur une balle courte
+*** service
+**** fais comme dans le double 28/1/24: de vraies premieres balles mais sans bourriner, et des secondes avec du rythme.
+**** pense aux jambes comme Christophe a dit, ca a marche
+*** etre rigoureux dans le regard de la balle
+*** jouer sur le revers si possible
+*** ne pas avancer en crabe / pas chasses. pas chasses uniquement pour deplacement lateral / smash en reculant
+* todo
+** DONE meuble Joana
+** DONE payer electricien
+** DONE envoyer facture osteopathe mutuelle
+** declaration d'impots
+** DONE Stephane
+** MAIF
+** second devis portes et menuiserie
+** aviva
+** emails
+** hsbc
+** compte retraite
+** DONE caf
+** absences Joana
+** passeports enfants
+** medicaments Cookie
