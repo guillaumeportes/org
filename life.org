@@ -205,15 +205,68 @@
 ** DONE meuble Joana
 ** DONE payer electricien
 ** DONE envoyer facture osteopathe mutuelle
-** declaration d'impots
+** DONE declaration d'impots
 ** DONE Stephane
 ** MAIF
-** second devis portes et menuiserie
+*** constat
+** DONE second devis portes et menuiserie
 ** aviva
+*** need to phone them to change address
 ** emails
 ** hsbc
-** compte retraite
+*** need to check that amazon prime payment
+*** need to close the accounts
+** DONE compte retraite
 ** DONE caf
-** absences Joana
-** passeports enfants
-** medicaments Cookie
+** DONE absences Joana
+** DONE passeports
+*** joana - 11/2/2021
+*** alex - 16/11/2022
+*** amandine - 1/5/2024
+*** guillaume - 16/12/2024
+** DONE medicaments Cookie
+** DONE tournois
+** DONE chambre jojo
+** DONE payer everblue
+** DONE portes
+*** atlantem
+**** sims x
+**** todd
+**** porter x
+**** lewis
+**** clark
+**** edwards
+**** ferguson
+**** warren
+*** zilten
+**** line 6
+**** antalya 15 x
+**** line 5 x
+**** line 3
+**** arkad 15
+**** atlandide 15
+**** antalya duo
+**** cytiss 12
+**** glam
+**** cyrene 15
+*** rendez-vous anestesiste
+** DONE devis
+*** portes
+**** infinite home: 5226.9
+***** chassis fixe: 822.9
+***** porte entree: 2954
+***** porte service: 1450
+**** miroiterie 3 baous: 1617.58
+***** chassis fixe: 453
+***** porte entree:
+***** porte service: 1080.25
+*** 
+** todo
+*** DONE lou batimain
+*** DONE gaetan
+*** orthodontiste
+*** DONE livraison bois
+* Maman
+** morte le 18/10/2024 vers 15:15, heure a laquelle Papa m'a appele pour me l'annoncer
+** derniere conversation avec elle en septembre, peut-etre vers la mi-septembre, je ne suis pas sur
+** derniere fois que je l'ai vue: 1/8/2024 vers 9h, lorsque nous sommes partis de Bize
